@@ -1,3 +1,11 @@
+**Requirement**:
+pytorch==1.11
+tqdm==4.64
+normflows==1.4
+dgl==0.9.0
+tensorboardx==2.5.1
+
+**Data**:
 Get data from:https://drive.google.com/uc?id=1ElKgnVcdoq7vdcC2N_N7lEeFP_Ughf_R&export=download
 
 Get pretrained structural representations from: https://github.com/xwhan/One-shot-Relational-Learning
