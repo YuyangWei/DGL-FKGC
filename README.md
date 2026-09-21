@@ -1,8 +1,13 @@
 **Requirement**:
+
 pytorch==1.11
+
 tqdm==4.64
+
 normflows==1.4
+
 dgl==0.9.0
+
 tensorboardx==2.5.1
 
 **Data**:
