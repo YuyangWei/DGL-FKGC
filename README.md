@@ -13,7 +13,9 @@ NELL-One通过网盘分享的文件：qwen_emb.pt
 --来自百度网盘超级会员v1的分享
 
 Get checkpoints from:
-Wiki-One
+Wiki-One通过网盘分享的文件：dgl_wiki_last.zip
+链接: https://pan.baidu.com/s/1oEv57UfgF8WU1Wv76vEMVw?pwd=4xe1 提取码: 4xe1 
+--来自百度网盘超级会员v1的分享
 
 NELL-One 通过网盘分享的文件：state_nell_512.zip
 链接: https://pan.baidu.com/s/19Z_8IOheLCx3G2BLPKyMsg?pwd=8m7c 提取码: 8m7c 
