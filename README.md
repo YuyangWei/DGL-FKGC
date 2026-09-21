@@ -33,3 +33,11 @@ Wiki-One通过网盘分享的文件：dgl_wiki_last.zip
 NELL-One 通过网盘分享的文件：state_nell_512.zip
 链接: https://pan.baidu.com/s/19Z_8IOheLCx3G2BLPKyMsg?pwd=8m7c 提取码: 8m7c 
 --来自百度网盘超级会员v1的分享
+
+**Eval**
+
+Download the checkpoint and extract to the state/ folder.
+
+NELL:python main.py --dataset NELL-One --data_path ./NELL --few 5 --data_form Pre-Train --prefix dgl_nell_512 --device 0 --batch_size 32 --g_batch 512 --learning_rate 0.0001 --step test
+
+Wiki:python main.py --dataset Wiki-One --data_path ./Wiki --few 5 --data_form Pre-Train --prefix dgl_wiki --device 0 --batch_size 64 -dim 50 --g_batch 1024 --eval_epoch 2000 --step test
